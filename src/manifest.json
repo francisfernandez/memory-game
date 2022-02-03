@@ -1,0 +1,22 @@
+{
+  "name": "Memory Game",
+  "short_name": "Memory Game",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "/assets/icons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icons/android-chrome-256x256.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
